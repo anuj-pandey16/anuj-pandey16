@@ -69,7 +69,7 @@
   <img width="16" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="44" alt="bash logo"  />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/windows/0078D6" height="44" alt="windows8 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="44" alt="windows8 logo"  />
 </div>
 
 ###
