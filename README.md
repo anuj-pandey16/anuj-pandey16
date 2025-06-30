@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">A Student🧑🏻‍🎓 pursuing Bachelor's of technology in Computer Science and  Engineering with Specialization in Cyber Security</p>
+<p align="left">I Completed Bachelor's of technology👨🏻‍🎓 in Computer Science and  Engineering with Specialization in Cyber Security💻</p>
 
 ###
 
